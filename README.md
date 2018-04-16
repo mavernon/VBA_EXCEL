@@ -8,8 +8,6 @@ expedite data input, and provide a user-friendly interface for general data mana
 Note: You must enable macros in your Excel software, in order to run this program (in a Microsoft Windows environment of course).
 
 
-
-
 Operation:
 
 A VBA graphical user interface opens immediately when the Excel file is executed.
@@ -20,7 +18,7 @@ Select the Close Application button on the main entry form to close the applicat
 
 Gain access to the VBA code editor, to view the form application's VBA codes:
 
- 1. From the main entry form, select the X icon at the corner of the entry form to close it.
+ 1. From the main entry form, select the X icon at the top-right corner of the entry form to close it.
 
  2. Select the view tab on the main menu of the remaining workbook interface
 

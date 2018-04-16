@@ -1,5 +1,6 @@
 # VBA_EXCEL
 Overview:
+
 This is a simple project that was created ~ 2005. Its purpose was to create a gui for Excel worksheets
 that would add convenience (since it would open automatically when the worksheet was opened), as well as,
 expedite data input, and provide a user-friendly interface for general data management.
@@ -8,6 +9,7 @@ Note: You must enable macros in your Excel software, in order to run this progra
 
 
 Operation:
+
 A VBA graphical user interface opens immediately when the Excel file is executed.
 Select any one of four buttons on the entry form's interface to begin a form event
 (note: Do NOT close the Excel workbok behind the form).

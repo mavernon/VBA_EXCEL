@@ -1,7 +1,7 @@
 # VBA_EXCEL
 Overview:
 
-This is a simple project that was created ~ 2005. Its purpose was to create a gui for Excel worksheets
+This is a simple project that was created ~ 2005. The goal was to create a desktop gui application for Excel worksheets
 that would add convenience (since it would open automatically when the worksheet was opened), as well as,
 expedite data input, and provide a user-friendly interface for general data management.
 

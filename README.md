@@ -5,7 +5,7 @@ This is a simple project that was created ~ 2005. The goal was to create a deskt
 that would add convenience (since it would open automatically when the worksheet was opened), as well as,
 expedite data input, and provide a user-friendly interface for general data management.
 
-Note: You must enable macros in your Excel software, in order to run this program (in a Microsoft Windows environment of course).
+Note: You must enable macros in your Excel software, in order to run this program (in a Microsoft Windows environment of course). Simply click on the .xls link above, and download the binary (.exe) file.
 
 
 Operation:

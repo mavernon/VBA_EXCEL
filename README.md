@@ -20,7 +20,7 @@ Gain access to the VBA code editor, to view the form application's VBA codes:
 
  1. From the main entry form, select the X icon at the top-right corner of the entry form to close it.
 
- 2. Select the view tab on the main menu of the remaining workbook interface
+ 2. Select the view tab on the main menu (of the workbook interface that remains ...).
 
  3. Select the view Macro's icon (from the extended View menu).
 

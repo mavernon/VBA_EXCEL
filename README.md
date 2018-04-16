@@ -1,9 +1,10 @@
 # VBA_EXCEL
-This is a simple project that was started in 2005. Its purpose was to create a gui for Excel worksheets
-that would create convenience (since it would open automatically when the worksheet was opened), as well as,
-expediate data input, and general data management.
+Overview:
+This is a simple project that was created ~ 2005. Its purpose was to create a gui for Excel worksheets
+that would add convenience (since it would open automatically when the worksheet was opened), as well as,
+expedite data input, and provide a user-friendly interface for general data management.
 
-Note: You must enable macros in your Excel software, in order to run this program.
+Note: You must enable macros in your Excel software, in order to run this program (in a Microsoft Windows environment of course).
 
 
 Operation:
